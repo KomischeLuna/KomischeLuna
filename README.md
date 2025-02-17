@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here you'll find projects and posts I'm working on
 ## About me
 
 - Luna
-- 19 y/o
+- 20 y/o
 - Cosplayer & Developer
 - Training as an information electronics technician
 
